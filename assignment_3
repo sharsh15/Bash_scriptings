@@ -1,0 +1,6 @@
+#!/bin/bash
+
+date=$(date '+%d/%m/%y')
+time=$(date '+%r')
+echo "The current date is $date and time is $time"
+
